@@ -13,8 +13,8 @@
 // @grant        GM_xmlhttpRequest
 // @connect      realcustomai.online
 // @noframes
-// @downloadURL  https://raw.githubusercontent.com/wkdtmdgnsdev/realCustom/refs/heads/main/realCustom.js
-// @updateURL    https://raw.githubusercontent.com/wkdtmdgnsdev/realCustom/refs/heads/main/realCustom.js
+// @downloadURL  https://raw.githubusercontent.com/wkdtmdgnsdev/realCustom/main/realCustom.user.js
+// @updateURL    https://raw.githubusercontent.com/wkdtmdgnsdev/realCustom/main/realCustom.user.js
 // ==/UserScript==
 /* globals GM_xmlhttpRequest */
 
